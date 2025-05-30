@@ -29,3 +29,14 @@ console.log(ourTuple);
 const ourReadonlyTuple: readonly [number, boolean, string] = [5, true, 'The Real Coding God'];
 // throws error as it is readonly.
 // ourReadonlyTuple.push('Coding God took a day off');
+
+
+type Point = [x: number, y: number];
+
+function logPoint(p: Point) {
+  const [x, y] = p;
+  console.log(`X: ${x}, Y: ${y}`);
+}
+
+const myPoint: Point = [10, 20];
+logPoint(myPoint); // Output: X: 10, Y: 20
