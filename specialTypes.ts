@@ -17,10 +17,11 @@ function handle(input : unknown){
 }
 
 handle(32.52552);
-handle("       hello typescript       ");
+handle("       hello typescript       "); //trims all the spaces front front and back
 
 
 // type : never - Gives error
 // let x : never = 23;
 // console.log(x);
+
 
