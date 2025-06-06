@@ -1,1 +1,1 @@
-This repo contains all my typescript notes.
+This repository contains all my typescript notes.
