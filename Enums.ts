@@ -4,7 +4,8 @@ enum alpha{
     a,
     b,
     c,
-    d
+    d,
+    e
 }
 
 console.log(alpha.d);
