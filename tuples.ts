@@ -1,7 +1,7 @@
 // define our tuple
 let ourTuple: [number, boolean, string];
 
-// initialize correctly
+// initialize correctly tuple may contain different types of values
 ourTuple = [5, false, 'Coding God was here'];
 
 console.log(ourTuple);
