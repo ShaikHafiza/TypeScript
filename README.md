@@ -1,2 +1,2 @@
-This REPO contains all my typescript notes.
-Used geeksforgeeks platform for learning
+This Repository contains all my typescript notes.
+Used Gfg platform for learning
