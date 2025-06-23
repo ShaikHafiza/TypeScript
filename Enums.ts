@@ -38,3 +38,6 @@ enum statusCodes{
 }
 
 console.log(statusCodes.notFound);
+console.log(statusCodes.success);
+console.log(statusCodes.accepted);
+
